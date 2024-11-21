@@ -1,0 +1,87 @@
+[
+    {
+        "id": 0,
+        "image": "C:/Users/imske/Desktop/ultralytics-main/ultralytics/assets/\u5fae\u4fe1\u56fe\u7247_20240703174437.jpg",
+        "label": "not have",
+        "confidence": 0.926293671131134,
+        "bbox": [
+            121.75634002685547,
+            536.4312744140625,
+            220.65394592285156,
+            262.7071228027344
+        ],
+        "corrected": true
+    },
+    {
+        "id": 1,
+        "image": "C:/Users/imske/Desktop/ultralytics-main/ultralytics/assets/\u5fae\u4fe1\u56fe\u7247_20240703174437.jpg",
+        "label": "have",
+        "confidence": 0.9260013103485107,
+        "bbox": [
+            600.0662841796875,
+            817.181396484375,
+            256.7395324707031,
+            253.8145751953125
+        ]
+    },
+    {
+        "id": 2,
+        "image": "C:/Users/imske/Desktop/ultralytics-main/ultralytics/assets/\u5fae\u4fe1\u56fe\u7247_20240703174437.jpg",
+        "label": "not have",
+        "confidence": 0.9092439413070679,
+        "bbox": [
+            581.7036743164062,
+            387.0125732421875,
+            220.6920166015625,
+            232.41952514648438
+        ]
+    },
+    {
+        "id": 3,
+        "image": "C:/Users/imske/Desktop/ultralytics-main/ultralytics/assets/\u5fae\u4fe1\u56fe\u7247_20240703174437.jpg",
+        "label": "not have",
+        "confidence": 0.900844395160675,
+        "bbox": [
+            911.8497314453125,
+            764.7017822265625,
+            194.300537109375,
+            232.36993408203125
+        ]
+    },
+    {
+        "id": 4,
+        "image": "C:/Users/imske/Desktop/ultralytics-main/ultralytics/assets/\u5fae\u4fe1\u56fe\u7247_20240703174437.jpg",
+        "label": "have",
+        "confidence": 0.8977376818656921,
+        "bbox": [
+            294.5779113769531,
+            139.3732452392578,
+            224.89398193359375,
+            250.4478302001953
+        ]
+    },
+    {
+        "id": 5,
+        "image": "C:/Users/imske/Desktop/ultralytics-main/ultralytics/assets/\u5fae\u4fe1\u56fe\u7247_20240703174437.jpg",
+        "label": "not have",
+        "confidence": 0.8763842582702637,
+        "bbox": [
+            887.15087890625,
+            227.08253479003906,
+            226.66558837890625,
+            234.44967651367188
+        ]
+    },
+    {
+        "id": 6,
+        "image": "C:/Users/imske/Desktop/ultralytics-main/ultralytics/assets/\u5fae\u4fe1\u56fe\u7247_20240703174437.jpg",
+        "label": "not have",
+        "confidence": 0.8353191018104553,
+        "bbox": [
+            298.7470703125,
+            979.8087158203125,
+            228.78656005859375,
+            142.1533203125
+        ]
+    }
+]
